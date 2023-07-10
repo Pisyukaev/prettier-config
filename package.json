@@ -1,5 +1,5 @@
 {
-  "name": "@crashmax/prettier-config",
+  "name": "@pisyukaev/prettier-config",
   "version": "3.2.1",
   "type": "module",
   "description": "prettier-config",
@@ -15,18 +15,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crashmax-dev/prettier-config.git"
+    "url": "git+https://github.com/pisyukaev/prettier-config.git"
   },
   "author": {
-    "name": "Vitalij Ryndin",
-    "email": "sys@crashmax.ru",
-    "url": "https://crashmax.ru"
+    "name": "Vitaliy Zakutniy",
+    "email": "stalker-52@mail.ru",
+    "url": "https://github.com/pisyukaev/prettier-config.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crashmax-dev/prettier-config/issues"
+    "url": "https://github.com/pisyukaev/prettier-config/issues"
   },
-  "homepage": "https://github.com/crashmax-dev/prettier-config#readme",
+  "homepage": "https://github.com/pisyukaev/prettier-config#readme",
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "3.7.1",
     "prettier": "2.8.4",
@@ -36,6 +36,5 @@
     "@ianvs/prettier-plugin-sort-imports": "3.7.1",
     "prettier": "2.8.1",
     "prettier-plugin-multiline-arrays": "1.1.2"
-  },
-  "packageManager": "pnpm@7.7.0"
+  }
 }
