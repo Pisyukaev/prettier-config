@@ -1,26 +1,26 @@
-# `@crashmax/prettier-config`
+# `@pisyukaev/prettier-config`
 
 > Here is my personal [Prettier](https://prettier.io) config.
 
 ## Install
 
 ```sh
-npm install @crashmax/prettier-config -D
+npm install @pisyukaev/prettier-config -D
 ```
 
 ```sh
-yarn add @crashmax/prettier-config -D
+yarn add @pisyukaev/prettier-config -D
 ```
 
 ```sh
-pnpm add @crashmax/prettier-config -D
+pnpm add @pisyukaev/prettier-config -D
 ```
 
 ## Usage
 
 ```js
 // .prettierrc.cjs
-module.exports = require('@crashmax/prettier-config')
+module.exports = require('@pisyukaev/prettier-config')
 ```
 
 ### Copy the ignore file to your project folder
@@ -29,13 +29,13 @@ If you want to extend the ignore file, run the following command in the root of 
 
 ```bash
 # unix
-cp node_modules/@crashmax/prettier-config/.prettierignore .prettierignore
+cp node_modules/@pisyukaev/prettier-config/.prettierignore .prettierignore
 
 # windows
-copy node_modules/@crashmax/prettier-config/.prettierignore .prettierignore
+copy node_modules/@pisyukaev/prettier-config/.prettierignore .prettierignore
 ```
 
-It will copy the `.prettierignore` from `@crashmax/prettier-config` to your project root folder.
+It will copy the `.prettierignore` from `@pisyukaev/prettier-config` to your project root folder.
 
 ### Scripts
 
