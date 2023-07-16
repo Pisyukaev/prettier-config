@@ -26,7 +26,7 @@
   ],
   "multilineArraysWrapThreshold": 2,
   "importOrder": [
-    "^node:(.*)$",
+    "<BUILTIN_MODULES>",
     "^(react|next(.*))$",
     "<THIRD_PARTY_MODULES>",
     "<TYPES>",
@@ -35,6 +35,7 @@
     "^~/(.*)$",
     "^[./]",
     "<TYPES>^[.]",
+    "",
     "^(.*)(sass|css|scss)$"
   ],
   "importOrderCaseInsensitive": true,
