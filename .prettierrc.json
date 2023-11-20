@@ -38,8 +38,6 @@
     "",
     "^(.*)(sass|css|scss)$"
   ],
-  "importOrderCaseInsensitive": true,
-  "importOrderSortSpecifiers": true,
   "importOrderParserPlugins": [
     "classProperties",
     "decorators-legacy",
